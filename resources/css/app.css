@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.dataTables_wrapper .dataTables_length select{
+    width: 65px;;
+}
